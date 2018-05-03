@@ -1,6 +1,6 @@
 {
   "name": "topptursappen",
-  "app_id": "",
+  "app_id": "71faa1b9",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
